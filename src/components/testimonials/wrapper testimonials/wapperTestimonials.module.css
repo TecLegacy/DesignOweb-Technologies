@@ -1,0 +1,159 @@
+.frame63 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 75px 150px;
+  gap: 10px;
+
+  position: absolute;
+  width: 100%;
+  height: 1092px;
+  left: -1px;
+  top: 774px;
+
+  background: #f2f2f2;
+}
+
+.frame62 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 12px;
+
+  width: 1211px;
+  height: 942px;
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.frame61 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 12px;
+
+  width: 400px;
+  height: 942px;
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.frame60 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 12px;
+
+  width: 400px;
+  height: 942px;
+
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+.frame59 {
+  width: 387px;
+  height: 942px;
+  position: relative;
+  background: #ffffff;
+  border-radius: 16px;
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.frame52 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 30px;
+
+  width: 300px;
+  height: 205px;
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.frame53 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 50px;
+  gap: 60px;
+
+  width: 400px;
+  height: 465px;
+
+  background: #ffffff;
+  border: 1px solid #f2f2f2;
+  border-radius: 16px;
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.frame54 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 50px;
+  gap: 60px;
+
+  width: 400px;
+  height: 465px;
+
+  background: #ffffff;
+  border: 1px solid #f2f2f2;
+  border-radius: 16px;
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.heading {
+  width: 300px;
+  height: 87px;
+
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #ef3a2f;
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.subHeading {
+  width: 300px;
+  height: 88px;
+
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #4d4d4d;
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
