@@ -5,16 +5,18 @@ import Header from './components/header/Header';
 import LandingPage from './components/section first/LandingPage';
 import Business from './components/section third/Business';
 import WapperTestimonials from './components/testimonials/wrapper testimonials/WapperTestimonials';
-
+import style from './app.module.css';
 function App() {
   return (
     <React.Fragment>
-      <Header />
-      <LandingPage />
-      <WapperTestimonials />
-      <Business />
-      <Form />
-      <Footer />
+      <div className={style.app}>
+        <Header />
+        <LandingPage />
+        <WapperTestimonials />
+        <Business />
+        <Form />
+        <Footer />
+      </div>
     </React.Fragment>
   );
 }
